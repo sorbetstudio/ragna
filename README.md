@@ -1,0 +1,2 @@
+# ragna
+Ragna is a versatile chat interface for interacting with Multilingual LLMs. Currently under-development.
